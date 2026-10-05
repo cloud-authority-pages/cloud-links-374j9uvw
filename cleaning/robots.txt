@@ -12,4 +12,4 @@ User-agent: Diffbot
 Disallow: /
 User-agent: Bytespider
 Disallow: /
-Sitemap: __URL_0__
+Sitemap: https://pub-2f92044261534bbcbe485687cc521feb.r2.dev/campaigns/374j9uvw/html/d-d-clean-exteriors-ltd/sitemap.xml
